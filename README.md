@@ -7,7 +7,7 @@ start PillboxHospital
 start PillboxHospital-doors
 ```
 
-## Important1
+## Important
 `code.txt` is new Hospital work station
 
 ## YouTube Channel
